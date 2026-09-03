@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE <br>Full-stack developer skilled in React, Node.js, Express, and MongoDB.<br>Always exploring new tech and shipping real-world solutions.<br>Open to full-stack dev, data, and BA/Operations roles.<br>Looking for internship/placement opportunities.<br>Open to work — dev, data, or ops-focused roles.
+B.Tech CSE <br>Full-stack developer skilled in React, Node.js, Express, and MongoDB.<br>Always exploring new tech and shipping real-world solutions.<br>Open to full-stack dev, data, and BA/Operations roles.<br>Open to work — dev, data, or ops-focused roles.
 
 
 ## 🌐 Socials:
